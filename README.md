@@ -4,3 +4,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingdinglz&theme=ambient_gradient)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dingdinglz&repo=dingbot&theme=ambient_gradient)](https://github.com/dingdinglz/dingbot)
