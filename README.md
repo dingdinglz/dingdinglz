@@ -3,8 +3,8 @@
 ### Hi there , dinglz👋
 
 - :orange_book: Focusing on Golang
+- :orange_book: Learning Pytorch in deep learning
 - :sparkling_heart: I like coding and reading
 - :house: My blog is [Dinglz's blog](https://dingdinglz.github.io/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingdinglz&theme=ambient_gradient)
-
