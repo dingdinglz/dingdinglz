@@ -7,4 +7,4 @@
 - :sparkling_heart: I like coding and reading
 - :house: My blog is [Dinglz's blog](https://dingdinglz.github.io/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingdinglz&theme=ambient_gradient)
+![](https://wakatime.com/share/@bb9c9f77-c49d-4b46-86a3-b8b0767638f7/aaeab775-57e6-4f9e-b583-97574f0c15ae.svg)
